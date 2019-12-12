@@ -1,0 +1,135 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?pf5w74');
+  src:  url('fonts/icomoon.eot?pf5w74#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pf5w74') format('truetype'),
+    url('fonts/icomoon.woff?pf5w74') format('woff'),
+    url('fonts/icomoon.svg?pf5w74#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-uniE901:before {
+  content: "\e902";
+}
+.icon-uniE900:before {
+  content: "\e900";
+  font-size:42px;
+  color: #616161;
+}
+.icon--2:before {
+  content: "\e901";
+   font-size:34px;
+   color: #616161;
+}
+.icon-2:before {
+  content: "\e902";
+  font-size:18px;
+  color:#333;
+}
+.icon-3:before {
+  content: "\e903";
+    font-size:32px;
+}
+.icon-4:before {
+  content: "\e904";
+  font-size:12px;
+}
+.icon-5:before {
+  content: "\e905";
+  font-size:32px;
+  color: #757575;
+}
+.icon-6:before {
+  content: "\e906";
+  font-size:32px;
+}
+.icon-7:before {
+  content: "\e907";
+}
+.icon-8:before {
+  content: "\e908";
+    font-size:32px;
+	color: #616161;
+}
+.icon-9 .path1:before {
+  content: "\e909";
+  color: rgb(0, 255, 0);
+}
+.icon-9 .path2:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-9 .path3:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-10:before {
+  content: "\e90c";
+  font-size:32px;
+}
+.icon-11:before {
+  content: "\e90d";
+    font-size:32px;
+	color: #616161;
+}
+.icon-12:before {
+  content: "\e90e";
+}
+.icon-13:before {
+  content: "\e90f";
+  font-size:18px;
+  color:#ffffff;
+}
+.icon--1:before {
+  content: "\e910";
+  color: #ff6700;
+  font-size:48px;
+}
+.icon--:after {
+  content: "\e911";
+  font-size:20px;
+}
+.icon-1:before {
+  content: "\e912";
+  font-size:36px;
+}
+.icon-20:before {
+  content: "\e90e";
+  font-size:36px;
+}
+.icon-21:before {
+  content: "\e912"; 
+  color:darkgray;
+  font-size:18px;
+}
+.icon-22:before {
+  content: "\e90e";
+  color:darkgray;
+  font-size:18px;
+}
+.icon-14:before {
+  content: "\e909";
+  font-size:30px;
+}
+.icon-15:before {
+  content: "\e907";
+  font-size:32px;
+  color: #757575;
+}
